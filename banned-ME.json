@@ -1,0 +1,31 @@
+{
+    "region": "ME",
+    "accounts": [
+        {
+            "nickname": "ℓᴡㅤRa",
+            "account_id": "2396257955",
+            "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoyMzk2MjU3OTU1LCJuaWNrbmFtZSI6IjArR20yWTJaZ09iR2FnVT0iLCJub3RpX3JlZ2lvbiI6Ik1FIiwibG9ja19yZWdpb24iOiJNRSIsImV4dGVybmFsX2lkIjoiOTE0YzRlZWI3ZjMzM2RiYjE0ZTY3NjAxOGI3MjI1ODEiLCJleHRlcm5hbF90eXBlIjozLCJwbGF0X2lkIjozLCJjbGllbnRfdmVyc2lvbiI6IjEuMTI5LjEiLCJlbXVsYXRvcl9zY29yZSI6MCwiaXNfZW11bGF0b3IiOmZhbHNlLCJjb3VudHJ5X2NvZGUiOiJEWiIsImV4dGVybmFsX3VpZCI6MTA3MzA4MDQxNTQxODU0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDQsInNvdXJjZSI6MCwibG9ja19yZWdpb25fdGltZSI6MTYwMTA0NDM4NywiY2xpZW50X3R5cGUiOjMsInNpZ25hdHVyZV9tZDUiOiI3NDI4YjI1M2RlZmMxNjQwMThjNjA0YTFlYmJmZWJkZiIsInVzaW5nX3ZlcnNpb24iOjAsInJlbGVhc2VfY2hhbm5lbCI6IiIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTQiLCJleHAiOjE3ODY1MjQzMzh9.Un3rdQ8-JY88SBOQiXN0drv13_OINqpfo_TCKmhBT70",
+            "access_token": "5ae449d182c2b49817667cc645ce74d1ae0c33546f8a8ab57c1d20efb60f0410",
+            "ban_type": "TEMPORARY BAN",
+            "ban_duration": "7 Days",
+            "server_url": "https://clientbp.ggpolarbear.com/GetLoginData",
+            "region": "ME",
+            "banned_at": "2026-08-12 01:45:41",
+            "timestamp": 1786495541
+        },
+        {
+            "nickname": "GRTㅤCr❀spoㅤ帝",
+            "account_id": "2413216927",
+            "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoyNDEzMjE2OTI3LCJuaWNrbmFtZSI6ImRqZGgyN3ljSUJHQXBlUVZGQXZhdDVXRGdmOD0iLCJub3RpX3JlZ2lvbiI6Ik1FIiwibG9ja19yZWdpb24iOiJNRSIsImV4dGVybmFsX2lkIjoiZTdhMWQ4Y2UzZjc5MzU0ZGI5ZTJiZTI1YzllYjNkZGMiLCJleHRlcm5hbF90eXBlIjo4LCJwbGF0X2lkIjo4LCJjbGllbnRfdmVyc2lvbiI6IjEuMTI5LjEiLCJlbXVsYXRvcl9zY29yZSI6MCwiaXNfZW11bGF0b3IiOmZhbHNlLCJjb3VudHJ5X2NvZGUiOiJEWiIsImV4dGVybmFsX3VpZCI6MTY2MDAwMDE1MTQwMSwicmVnX2F2YXRhciI6MTAyMDAwMDA0LCJzb3VyY2UiOjAsImxvY2tfcmVnaW9uX3RpbWUiOjE2MDE1Njc2NzYsImNsaWVudF90eXBlIjowLCJzaWduYXR1cmVfbWQ1IjoiNzQyOGIyNTNkZWZjMTY0MDE4YzYwNGExZWJiZmViZGYiLCJ1c2luZ192ZXJzaW9uIjowLCJyZWxlYXNlX2NoYW5uZWwiOiIiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjU0IiwiZXhwIjoxNzg2NjAyMjk5fQ.fFsR-qIlQY6f1Io5eyRKstsP3IvQwJNxScLLgpLnCb8",
+            "access_token": "94797ab0e42314220f66570a56567511c5192427e9adf894f0bfa019e0743895",
+            "ban_type": "TEMPORARY BAN",
+            "ban_duration": "7 Days",
+            "server_url": "https://clientbp.ggpolarbear.com/GetLoginData",
+            "region": "ME",
+            "banned_at": "2026-08-12 23:25:03",
+            "timestamp": 1786573503
+        }
+    ],
+    "last_updated": "2026-08-12 23:25:03",
+    "total_banned": 2
+}
