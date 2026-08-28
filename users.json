@@ -1,0 +1,64 @@
+{
+    "7788474071": {
+        "id": 7788474071,
+        "username": "MC_ZJ",
+        "first_name": "𝖱𝖠𝟩 𝖱𝖠𝖖𝖨𝖬",
+        "joined_at": "2026-08-12T01:43:56.902313",
+        "keys": [],
+        "language": "ar",
+        "is_admin": true,
+        "accounts": {
+            "1767762331": {
+                "NAME": "IMㅤSPNKOzㅤw†",
+                "ID": "1767762331",
+                "LV": "N/A",
+                "EAT": "149e6170322e2af242ba7e92f805e1f42a340625da0e20fe7bbb80bab5028714",
+                "ACCESS_TOKEN": "149e6170322e2af242ba7e92f805e1f42a340625da0e20fe7bbb80bab5028714",
+                "region": "ME",
+                "added_at": "2026-08-12T01:51:17.504614"
+            }
+        }
+    },
+    "8253594010": {
+        "id": 8253594010,
+        "username": "x0LoNely",
+        "first_name": "- 𝐍",
+        "joined_at": "2026-08-12T01:49:36.324413",
+        "keys": [],
+        "language": "ar",
+        "is_admin": false,
+        "accounts": {}
+    },
+    "7420631524": {
+        "id": 7420631524,
+        "username": "Qcrr34",
+        "first_name": "ㅤ—͟͞ </>",
+        "joined_at": "2026-08-12T11:31:34.671756",
+        "keys": [],
+        "language": "ar",
+        "is_admin": false,
+        "accounts": {}
+    },
+    "8732173333": {
+        "id": 8732173333,
+        "username": "ingbankofficial1267",
+        "first_name": "double your money ingbank",
+        "joined_at": "2026-08-12T11:32:10.894288",
+        "keys": [
+            "R32-KEY-OYVU4YU4V4A3"
+        ],
+        "language": "ar",
+        "is_admin": false,
+        "accounts": {}
+    },
+    "7892604673": {
+        "id": 7892604673,
+        "username": "yasine2010_39",
+        "first_name": "yasin",
+        "joined_at": "2026-08-12T23:21:50.759347",
+        "keys": [],
+        "language": "ar",
+        "is_admin": false,
+        "accounts": {}
+    }
+}

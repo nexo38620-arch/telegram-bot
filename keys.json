@@ -1,0 +1,31 @@
+{
+    "R32-KEY-CLI4C8HIH4IA": {
+        "key": "R32-KEY-CLI4C8HIH4IA",
+        "created_at": "2026-08-12T01:53:30.151310",
+        "expires_at": "2026-09-11T01:53:30.151310",
+        "max_devices": 1,
+        "users": [],
+        "owner": 7788474071,
+        "active": true
+    },
+    "R32-KEY-4352WJUNCTHO": {
+        "key": "R32-KEY-4352WJUNCTHO",
+        "created_at": "2026-08-12T01:54:21.502063",
+        "expires_at": "2026-09-20T01:54:21.502063",
+        "max_devices": 2,
+        "users": [],
+        "owner": 7788474071,
+        "active": true
+    },
+    "R32-KEY-OYVU4YU4V4A3": {
+        "key": "R32-KEY-OYVU4YU4V4A3",
+        "created_at": "2026-08-12T11:32:53.047181",
+        "expires_at": "2026-08-15T11:32:53.047181",
+        "max_devices": 2,
+        "users": [
+            8732173333
+        ],
+        "owner": 7788474071,
+        "active": true
+    }
+}
